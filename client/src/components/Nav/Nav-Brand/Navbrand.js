@@ -6,6 +6,7 @@ const NavBrand = () => {
         <div href="#home" className='navbrand__container'>
            <h1 className='navbrand'>
                <Link to="/">SHEMA</Link>
+               
             </h1>
         </div>
      );
